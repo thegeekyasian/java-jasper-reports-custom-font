@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+	<fontFamily name="Avenir">
+		<normal><![CDATA[fonts/calibri/calibri.ttf]]></normal>
+		<bold><![CDATA[fonts/calibri/calibri-bold.ttf]]></bold>
+		<italic><![CDATA[fonts/calibri/calibri-italic.ttf]]></italic>
+		<bolditalic><![CDATA[fonts/calibri/calibri-bold-Italic.ttf]]></bolditalic>
+		<pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+		<exportFonts/>
+	</fontFamily>
+</fontFamilies>
